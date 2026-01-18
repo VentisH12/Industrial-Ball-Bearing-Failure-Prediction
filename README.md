@@ -3,3 +3,6 @@ This project focuses on the application of statistical time-domain features for 
 
 **Desired Outcome**: Being able to predict if ball bearings would fail.
 
+**Approach**: 
+
+<img width="545" height="267" alt="image" src="https://github.com/user-attachments/assets/02c7eabb-3134-41ad-835b-513dc8f3314f" />
