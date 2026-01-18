@@ -1,2 +1,5 @@
 # Industrial-Ball-Bearing-Failure-Prediction
-A project using machine learning to predict when an industrial ball bearing system would fail for various revolutions per minute.
+This project focuses on the application of statistical time-domain features for the prediction of ball bearing failures. Some of the standard machine learning techniques are applied on publicly available datasets from Case Western Reserve University (CWRU) to predict the failures.
+
+**Desired Outcome**: Being able to predict if ball bearings would fail.
+
